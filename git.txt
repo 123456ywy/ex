@@ -1,0 +1,22 @@
+https://www.bilibili.com/video/av77175907?p=4
+登录
+https://github.com/apachecn/beam-site-zh
+文件地址
+https://github.com/123456ywy/ex.git master
+https://github.com/123456ywy/LinkList.git master
+https://github.com/123456ywy/data1.git master
+https://github.com/123456ywy/data01.git master
+
+git下载：
+https://npm.taobao.org/mirrors/git-for-windows/v2.22.0.windows.
+
+
+git命令
+
+    查看配置 $ git config --list
+    配置/修改用户名: $ git config --global user.name "姓名"
+    配置/修改邮箱 ：$ git config --global user.email "有箱地址"
+
+修改配置：
+$ git config --global --replace-all user.email "输入你的邮箱"
+$ git config --global --replace-all user.name "输入你的用户名"
